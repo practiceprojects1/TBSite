@@ -1,0 +1,42 @@
+	<p>New Android Malware &#8216;Ajina.Banker&#8217; Steals Financial Data and Bypasses 2FA via Telegram:</p>
+
+ Bank customers in the Central Asia region have been targeted by a new strain of Android malware codenamed Ajina.Banker since at least November 2023 with the goal of harvesting financial information and intercepting two-factor authentication (2FA) messages. Singapore-headquartered Group-IB, which discovered the threat in May 2024, said the malware is propagated via a network of Telegram channels set up by the threat actors under the guise of legitimate applications related to banking, payment sy&#8230;
+
+	<p><span class="caps">CVE</span>s </p>
+
+	<p>IPs</p>
+
+
+	<a href="https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html">https://thehackernews.com/2024/09/new-android-malware-ajinabanker-steals.html</a>
+
+
+
+
+
+
+
+	<p>Save money with a Microsoft Office lifetime license in this deal:</p>
+
+	<p>No more monthly software subscriptions for your Office apps. Get aMicrosoft Office Pro 2021 Lifetime License for Windows for $34.97 (reg. $219)&#8230;.</p>
+
+	<p><span class="caps">CVE</span>s </p>
+
+	<p>IPs</p>
+
+
+	<a href="https://www.bleepingcomputer.com/offer/deals/save-money-with-a-microsoft-office-lifetime-license-in-this-deal/">https://www.bleepingcomputer.com/offer/deals/save-money-with-a-microsoft-office-lifetime-license-in-this-deal/</a>
+
+
+
+
+
+	<p>Fortinet confirms data breach after hacker claims to steal 440GB of files:</p>
+
+	<p>Cybersecurity giant Fortinet has confirmed it suffered a data breach after a threat actor claimed to steal 440GB of files from the company&#8217;s Microsoft Sharepoint server&#8230;.</p>
+
+	<p><span class="caps">CVE</span>s </p>
+
+	<p>IPs</p>
+
+
+	<a href="https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/">https://www.bleepingcomputer.com/news/security/fortinet-confirms-data-breach-after-hacker-claims-to-steal-440gb-of-files/</a>
